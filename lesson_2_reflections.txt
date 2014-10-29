@@ -1,3 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 	It creates the initial repository for projects and starts tracking all the files
+	
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+	In Staging area we can chose and select which files to commit before making
+	any commits. 
+	Working directory shows all the committed and uncommited files
+	Repository contains all the updated files.
