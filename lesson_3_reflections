@@ -7,3 +7,9 @@ stay up-to-date with your remote repository?
 
 	This way i can track when i need to update my local with updated stuff so that
 	i always have working code.
+	
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	forks - when taking someone's work for modification purposes
+	clones - cloning on local computer for extensive modification
+	branches - working locally on different features so that its easier to test and see
