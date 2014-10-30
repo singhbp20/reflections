@@ -13,3 +13,8 @@ Describe the differences between forks, clones, and branches. When would you use
 	forks - when taking someone's work for modification purposes
 	clones - cloning on local computer for extensive modification
 	branches - working locally on different features so that its easier to test and see
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	This way merging two states becomes lot easier without worrying about how remote branch is
+	way different
