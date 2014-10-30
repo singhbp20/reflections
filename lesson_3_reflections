@@ -18,3 +18,8 @@ What is the benefit of having a copy of the last known state of the remote store
 
 	This way merging two states becomes lot easier without worrying about how remote branch is
 	way different
+	
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	
+	Its depends on the type of work. Simple word doc can be accomplished using google docs...
+	but SVN might also work in this case.
