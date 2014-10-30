@@ -9,3 +9,9 @@ What value do you think it offers?
 	any commits. 
 	Working directory shows all the committed and uncommited files
 	Repository contains all the updated files.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	Seeing through all the files that needs to be commited
+	
+	
